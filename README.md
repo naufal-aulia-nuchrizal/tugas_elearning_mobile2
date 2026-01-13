@@ -1,6 +1,7 @@
 # tugas_elearning
 
-A new Flutter project.
+- naufal aulia nuchrizal
+- 23552011366 - tif 23 cid B
 
 ## Getting Started
 
